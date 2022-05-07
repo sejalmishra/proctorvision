@@ -1,0 +1,27 @@
+.headerall{
+display: grid;
+grid-template-columns: 2fr 3fr auto auto auto;
+color: #fff;
+padding: 10px 10px;
+background: #232527;
+}
+.headerall input[type=text]{
+width: 350px;
+background: black;
+border: none;
+}
+.minimize{
+cursor: pointer;
+margin-top: 10px;
+margin-right: 4px;
+}
+.bigscreen{
+cursor: pointer;
+margin-top: 10px;
+margin-right: 4px;
+}
+.cross{
+color: #fff;
+background: #232527;
+border: none;
+}

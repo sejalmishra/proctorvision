@@ -1,0 +1,123 @@
+.container{
+margin-left: 40px;
+margin-top: 50px;
+height: 80vh;
+}
+.heading{
+width: 607px;
+height: 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 60px;
+color: #FFFFFF;
+margin-top: -49.4px;
+margin-left: 35px;
+}
+.date{
+position: relative;
+width: 171px;
+height: 38px;
+left: 1190px;
+top: -27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 38px;
+text-align: right;
+color: #FFFFFF;
+}
+.time{
+position: relative;
+top: -44px;
+left: 1224px;
+width: 133px;
+height: 21px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+text-align: right;
+color: #FFFFFF;
+}
+.guyy{
+position: relative;
+left: -10px;
+top: -30px;
+}
+.specification{
+width: 593.96px;
+height: 595px;
+position: relative;
+top: -525px;
+left: 570px;
+}
+.checking{
+display: flex;
+margin-bottom: 10px;
+}
+.checking p{
+width: 260px;
+height: 27px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 52px;
+color: #FFFFFF;
+margin-left: 20px;
+}
+.checking button{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 40px;
+width: 178px;
+height: 51px;
+background: #FFFFFF;
+margin-left: 16px;
+}
+.profile{
+position: relative;
+top: -95%;
+left: 90%;
+display: flex;
+}
+.profileimg{
+height: 62px;
+width: 62px;
+border-radius: 50%;
+margin-bottom: 2px;
+padding-bottom: 4px;
+}
+.p1{
+position: relative;
+right: 2%;
+width: 121px;
+height: 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: right;
+color: #FFFFFF;
+}
+.p2{
+position: absolute;
+top: 40%;
+width: 85px;
+height: 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: right;
+color: rgba(255, 255, 255, 0.5);
+
+}
